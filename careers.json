@@ -1,0 +1,146 @@
+[
+    {
+        "career": "Software Engineer",
+        "streams": ["Science"],
+        "skills": ["programming", "problem-solving", "teamwork"],
+        "description": "Develops and maintains software applications.",
+        "average_salary": 100000,
+        "education_level": "graduate",
+        "required_marks": 60
+    },
+    {
+        "career": "Data Scientist",
+        "streams": ["Science"],
+        "skills": ["statistics", "programming", "data analysis"],
+        "description": "Analyzes and interprets complex data to help organizations make decisions.",
+        "average_salary": 120000,
+        "education_level": "graduate",
+        "required_marks": 60
+    },
+    {
+        "career": "Graphic Designer",
+        "streams": ["Arts"],
+        "skills": ["creativity", "design", "attention to detail"],
+        "description": "Creates visual concepts to communicate ideas.",
+        "average_salary": 60000,
+        "education_level": "12th pass",
+        "required_marks": 50
+    },
+    {
+        "career": "Chartered Accountant",
+        "streams": ["Commerce"],
+        "skills": ["accounting", "analytical skills", "attention to detail"],
+        "description": "Handles financial records and provides financial advice.",
+        "average_salary": 90000,
+        "education_level": "graduate",
+        "required_marks": 55
+    },
+    {
+        "career": "Doctor",
+        "streams": ["Science"],
+        "skills": ["medical knowledge", "patient care", "diagnosis"],
+        "description": "Provides medical care to patients, diagnosing and treating illnesses.",
+        "average_salary": 150000,
+        "education_level": "graduate",
+        "required_marks": 70
+    },
+    {
+        "career": "Lawyer",
+        "streams": ["Arts"],
+        "skills": ["legal knowledge", "research", "advocacy"],
+        "description": "Provides legal advice, represents clients in legal matters, and prepares legal documents.",
+        "average_salary": 120000,
+        "education_level": "graduate",
+        "required_marks": 60
+    },
+    {
+        "career": "Marketing Manager",
+        "streams": ["Commerce", "Arts"],
+        "skills": ["marketing", "communication", "strategic planning"],
+        "description": "Develops marketing strategies, manages campaigns, and analyzes market trends.",
+        "average_salary": 90000,
+        "education_level": "graduate",
+        "required_marks": 55
+    },
+    {
+        "career": "Clerk",
+        "streams": ["Commerce"],
+        "skills": ["organization", "attention to detail", "basic accounting"],
+        "description": "Performs administrative tasks such as data entry and managing records.",
+        "average_salary": 30000,
+        "education_level": "12th pass",
+        "required_marks": 50
+    },
+    {
+        "career": "Technician",
+        "streams": ["Science"],
+        "skills": ["technical knowledge", "problem-solving", "mechanical skills"],
+        "description": "Installs and repairs technical equipment and systems.",
+        "average_salary": 40000,
+        "education_level": "12th pass",
+        "required_marks": 50
+    },
+    {
+        "career": "Sales Executive",
+        "streams": ["Commerce", "Arts"],
+        "skills": ["communication", "sales", "customer service"],
+        "description": "Promotes and sells products or services to customers.",
+        "average_salary": 35000,
+        "education_level": "12th pass",
+        "required_marks": 50
+    },
+    {
+        "career": "Data Entry Operator",
+        "streams": ["Any"],
+        "skills": ["typing", "attention to detail", "basic computer knowledge"],
+        "description": "Enters data into computer systems, ensuring accuracy and completeness.",
+        "average_salary": 25000,
+        "education_level": "10th pass",
+        "required_marks": 50
+    },
+    {
+        "career": "Retail Associate",
+        "streams": ["Any"],
+        "skills": ["customer service", "sales", "communication"],
+        "description": "Assists customers in a retail environment, processes sales, and maintains inventory.",
+        "average_salary": 25000,
+        "education_level": "10th pass",
+        "required_marks": 50
+    },
+    {
+        "career": "Electrician",
+        "streams": ["Science"],
+        "skills": ["electrical knowledge", "problem-solving", "safety"],
+        "description": "Installs and repairs electrical systems and equipment.",
+        "average_salary": 35000,
+        "education_level": "10th pass",
+        "required_marks": 50
+    },
+    {
+        "career": "Plumber",
+        "streams": ["Science"],
+        "skills": ["plumbing", "problem-solving", "mechanical skills"],
+        "description": "Installs and repairs plumbing systems, including pipes, fixtures, and appliances.",
+        "average_salary": 30000,
+        "education_level": "10th pass",
+        "required_marks": 50
+    },
+    {
+        "career": "IICL",
+        "streams": ["Any"],
+        "skills": ["procrastination", "confusion", "daydreaming"],
+        "description": "If you're confused about your career, join the Imaginary Institute of Career Lethargy and forget about your career.",
+        "average_salary": "None (since you won't care)",
+        "education_level": "any",
+        "required_marks": "none (since you're confused)"
+    },
+    {
+        "career": "Retake Exams",
+        "streams": ["Any"],
+        "skills": [],
+        "description": "If your marks are below 35%, consider retaking your exams to improve your career prospects.",
+        "average_salary": "None (until you pass)",
+        "education_level": "any",
+        "required_marks": 35
+    }
+]
